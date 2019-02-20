@@ -1,0 +1,3 @@
+# projet
+The Package is a new exercice to well understand how to play with GitHub...
+That is yet a hard and large project.
